@@ -1,0 +1,13 @@
+.linea {
+
+    border: 3px solid #fff;
+    background-color: #fff;
+}
+
+.card:hover{
+    border-width: 0.2em;
+}
+
+.btn-dark:hover{
+    border: 2px solid #fff; 
+}

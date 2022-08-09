@@ -1,0 +1,57 @@
+[
+    {
+      "precio": 1180,
+      "id": 1,
+      "title": "Cuadril",
+      "img": "./img/cuadril.jpg"
+    },
+    {
+      "precio": 1350,
+      "id": 2,
+      "title": "Peceto",
+      "img": "./img/peceto.jpg"
+    },
+    {
+      "precio": 1080,
+      "id": 3,
+      "title": "Costilla",
+      "img": "./img/costilla.jpg"
+    },
+    {
+      "precio": 1400,
+      "id": 4,
+      "title": "Bife Chorizo",
+      "img": "./img/bife_de_chorizo.jpg"
+    },
+    {
+      "precio": 1200,
+      "id": 5,
+      "title": "Colita Cuadril",
+      "img": "./img/colita-cuadril.jpg"
+    },
+    {
+      "precio": 950,
+      "id": 6,
+      "title": "Costeleta Especial",
+      "img": "./img/costeleta-especial.jpg"
+    },
+    {
+      "precio": 1250,
+      "id": 7,
+      "title": "Tapa Cuadril",
+      "img": "./img/tapa-de-cuadril.jpg"
+    },
+    {
+      "precio": 1450,
+      "id": 8,
+      "title": "Tomahawk",
+      "img": "./img/tomahawk.jpg"
+    },
+    {
+      "precio": 1180,
+      "id": 9,
+      "title": "Vacio",
+      "img": "./img/vacio.jpg"
+    }
+
+]
